@@ -62,4 +62,5 @@ while True:
     driver.refresh()
     time.sleep(5)
 
+# Закрытие браузера
 driver.quit()
